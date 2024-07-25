@@ -1,1 +1,0 @@
-/home/stacknewbie/rust_for_data_engineering/copilot_ecosystem_module/target/debug/libcopilot_ecosystem_module.rlib: /home/stacknewbie/rust_for_data_engineering/copilot_ecosystem_module/src/cmd.rs /home/stacknewbie/rust_for_data_engineering/copilot_ecosystem_module/src/game_logic.rs /home/stacknewbie/rust_for_data_engineering/copilot_ecosystem_module/src/lib.rs
