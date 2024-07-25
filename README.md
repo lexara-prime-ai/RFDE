@@ -1,2 +1,1 @@
-# RFDE
-Rust for Data Engineering
+## Rust for Data Engineering
