@@ -1,0 +1,8 @@
+[package]
+name = "working_with_btree_sets"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { workspace = true, features = ["derive"] }
+rand = { workspace = true }

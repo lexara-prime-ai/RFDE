@@ -1,6 +1,6 @@
 [workspace]
 members = [ "cli_salad",
-    "copilot_ecosystem_module",
+    "copilot_ecosystem_module", "working_with_btree_sets",
     "working_with_linked_lists",
     "working_with_vecdeques",
     "working_with_vectors",
