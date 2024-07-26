@@ -16,4 +16,4 @@ test:
 	cargo test --quiet
 
 run: 
-	cargo run -- play "Some name"
+	cargo run -- play "Marco"

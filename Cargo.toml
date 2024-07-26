@@ -1,5 +1,5 @@
 [workspace]
-members = [
+members = [ "cli_salad",
     "copilot_ecosystem_module",
     "working_with_linked_lists",
     "working_with_vecdeques",
