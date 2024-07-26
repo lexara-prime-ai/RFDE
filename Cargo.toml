@@ -1,0 +1,20 @@
+[workspace]
+members = [
+    "copilot_ecosystem_module",
+    "working_with_linked_lists",
+    "working_with_vecdeques",
+    "working_with_vectors",
+]
+
+[workspace.dependencies]
+rand = "0.8.5"
+clap = "4.5.10"
+
+[package]
+name = "rfde"     # Rust For Data Engineering.
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = { version = "0.8.5", workspace = true }
+clap = { version = "4.5.10", features = ["derive"], workspace = true }

@@ -1,5 +1,5 @@
 [package]
-name = "working_with_vecdeques" # Rust For Data Engineering.
+name = "working_with_linked_lists" # Rust For Data Engineering.
 version = "0.1.0"
 edition = "2021"
 
