@@ -1,14 +1,18 @@
 [workspace]
-members = [ "cli_salad",
-    "copilot_ecosystem_module", "working_with_btree_sets",
+members = [
+    "cli_salad",
+    "copilot_ecosystem_module",
+    "plotting_distances",
+    "working_with_btree_sets",
     "working_with_linked_lists",
     "working_with_vecdeques",
     "working_with_vectors",
 ]
 
 [workspace.dependencies]
-rand = "0.8.5"
 clap = "4.5.10"
+rand = "0.8.5"
+rasciigraph = "0.2.0"
 
 [package]
 name = "rfde"     # Rust For Data Engineering.
@@ -16,5 +20,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+rasciigraph = { version = "0.2.0", workspace = true }
 rand = { version = "0.8.5", workspace = true }
 clap = { version = "4.5.10", features = ["derive"], workspace = true }

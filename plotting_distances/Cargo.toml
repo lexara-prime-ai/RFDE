@@ -1,0 +1,7 @@
+[package]
+name = "plotting_distances"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rasciigraph = { workspace = true }
