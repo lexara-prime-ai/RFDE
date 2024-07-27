@@ -1,7 +1,11 @@
 [workspace]
-members = [ "binary_trees",
+members = [
+    "binary_trees",
+    "caesar_ciphers",
     "cli_salad",
-    "copilot_ecosystem_module", "homophonic_ciphers", "parsing_csvs",
+    "copilot_ecosystem_module",
+    "homophonic_ciphers",
+    "parsing_csvs",
     "plotting_distances",
     "working_with_btree_sets",
     "working_with_linked_lists",

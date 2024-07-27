@@ -39,16 +39,15 @@ impl Solution {
     ) -> String {
         let mut nodes: Vec<Rc<RefCell<TreeNode>>> = Vec::new();
 
-        for (i, item) in 
+        for i in 0..4 {
+            unimplemented!()
+        }
 
         "".to_owned()
     }
 }
 
-fn main() {
-    
-}
-
+fn main() {}
 
 // let root = vec![Some(5), Some(1), Some(2), Some(3), None, Some(6), Some(4)];
 //     Solution::get_directions(root, 3, 6);
