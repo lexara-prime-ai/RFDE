@@ -4,6 +4,7 @@ members = [
     "caesar_ciphers",
     "cli_salad",
     "copilot_ecosystem_module",
+    "csv_reader",
     "homophonic_ciphers",
     "parsing_csvs",
     "plotting_distances",
@@ -17,6 +18,7 @@ members = [
 clap = "4.5.10"
 rand = "0.8.5"
 rasciigraph = "0.2.0"
+csv = "1.3.0"
 
 [package]
 name = "rfde"     # Rust For Data Engineering.
@@ -27,3 +29,4 @@ edition = "2021"
 rasciigraph = { version = "0.2.0", workspace = true }
 rand = { version = "0.8.5", workspace = true }
 clap = { version = "4.5.10", features = ["derive"], workspace = true }
+csv = { version = "1.3.0", workspace = true }
