@@ -28,3 +28,4 @@
 - Working with Hyperopt i.e Distributed Asynchronous, Hyper-parameter, Optimization
 - GCP App Engine
 - Step Functions(AWS)
+- Review: Distroless Containers
