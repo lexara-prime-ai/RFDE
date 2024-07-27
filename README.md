@@ -17,4 +17,6 @@
 - Run stress tests concurrently with a GPU
 - Review: Host Virtualization Efficiency(Serverless)
 - Testing locally with Cargo Lambda
-
+- AWS Sync
+- Working with Sensitive Data
+- __Databricks Machine Learning__(ML Flow)
