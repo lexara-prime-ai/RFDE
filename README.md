@@ -19,4 +19,8 @@
 - Testing locally with Cargo Lambda
 - AWS Sync
 - Working with Sensitive Data
-- __Databricks Machine Learning__(ML Flow)
+- __Databricks Machine Learning__(ML Flow) i.e Hyperparameter Tuning, Hyperparameter Compare, Parallel Hyperparameter Tuning -> Three algorithms:
+    * Random Search
+    * Tree of Parzen Est(TPE)
+    * Adaptive TPE
+> Parallelize with Apache Spark & MongoDB
