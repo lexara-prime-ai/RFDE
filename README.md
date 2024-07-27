@@ -24,3 +24,7 @@
     * Tree of Parzen Est(TPE)
     * Adaptive TPE
 > Parallelize with Apache Spark & MongoDB
+
+- Working with Hyperopt i.e Distributed Asynchronous, Hyper-parameter, Optimization
+- GCP App Engine
+- Step Functions(AWS)
