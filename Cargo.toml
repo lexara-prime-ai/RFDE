@@ -1,7 +1,7 @@
 [workspace]
-members = [
+members = [ "binary_trees",
     "cli_salad",
-    "copilot_ecosystem_module",
+    "copilot_ecosystem_module", "homophonic_ciphers", "parsing_csvs",
     "plotting_distances",
     "working_with_btree_sets",
     "working_with_linked_lists",
